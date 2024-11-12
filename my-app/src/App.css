@@ -1,0 +1,27 @@
+.head{
+   width: 10%; 
+padding: 2%;
+align-items: center;
+justify-content: center;
+  gap: 12px;
+  display: flex;
+}
+.content{
+
+  text-align: start;
+  margin-bottom: 40px;
+  font-size: 22px;
+  gap: 10px;
+  margin-top: 10px;
+}
+h4{
+  color:green;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.border1{
+ padding: 2%;
+ display: flex;
+background-color: gold;
+ gap: 14px;
+ border: 2px solid black;
+}
